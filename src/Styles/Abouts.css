@@ -1,0 +1,48 @@
+.about_btns{
+    background: #102048;
+    border-right: 10px;
+}
+.heading{
+    text-align: center;
+}
+.about_btn{
+    border: none;
+    width: 100%;
+    padding: 20px;
+    color: #fff;
+    background: transparent;
+    border-radius: 1px solid #7865ff;
+    outline: none;
+}
+.about_btn-active{
+    background: #7865ff;
+}
+.about_btn:last-child{
+    border-bottom: 0;
+}
+.about_content_wrapper{
+    background: #132347;
+    padding: 10px;
+}
+.about_content p{
+    color: #fff;
+    line-height: 30px;
+    font-weight: 300;
+}
+.about_content h2{
+    color: #fff;
+}
+.about_content h6{
+    color: #fff;
+}
+.social_link span i{
+    color: #7865ff;
+}
+.about-img{
+    height: 227px;
+    padding-top: 10px;
+}
+.Col{
+    background: #102048;
+    color: #fff;
+}
